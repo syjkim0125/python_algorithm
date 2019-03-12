@@ -1,3 +1,4 @@
+# Exercise Address https://www.acmicpc.net/problem/14890
 import sys
 
 class pathWay():
