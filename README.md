@@ -1,2 +1,2 @@
-# python_algorithm
-studying algorithm using python
+# algorithm with python & java
+studying algorithm using python and java
