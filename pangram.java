@@ -1,7 +1,6 @@
 package test_java;
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.List;
 
 public class pangram {
 	public static void main(String[] args) {
