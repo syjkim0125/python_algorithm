@@ -18,11 +18,11 @@ if __name__ == "__main__":
     A = int(input())
     B = int(input())
     C = int(input())
-    if(A > 100 and A >= 1000):
+    if(A > 100 and A <= 1000):
         print('A의 범위를 잘못입력하셨습니다.')
-    if(B > 100 and B >= 1000):
+    if(B > 100 and B <= 1000):
         print('B의 범위를 잘못입력하셨습니다.')
-    if(C > 100 and C >= 1000):
+    if(C > 100 and C <= 1000):
         print('C의 범위를 잘못입력하셨습니다.')
 
     multi = str(A * B * C)
